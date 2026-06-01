@@ -1,0 +1,28 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'npikall'
+theme = 'void'
+
+[markup.highlight]
+  style = "rose-pine-moon"
+  noClasses = false
+
+[params]
+  author       = "npikall"
+  hostname     = "void"
+  description  = "Personal website of npikall"
+  tagline      = "software engineer"
+  tagline2     = "building things that run fast and look clean."
+  heroGreeting = "Hello, I'm"
+  github       = "npikall"
+  email        = "nikolas.pikall@gmail.com"
+
+[[menus.main]]
+  name   = 'projects'
+  url    = '/projects/'
+  weight = 1
+
+[[menus.main]]
+  name   = 'about'
+  url    = '/about/'
+  weight = 2
