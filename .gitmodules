@@ -1,0 +1,3 @@
+[submodule "themes/void"]
+	path = themes/void
+	url = git@github.com:npikall/void-theme
