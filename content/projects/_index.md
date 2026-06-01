@@ -18,7 +18,7 @@ projects:
     description: "A cli to live preview typst PDF's in the browser."
     tech: ["Go", "Typst"]
     github: "https://github.com/npikall/go-typstwatcher"
-    demo: "https://pypi.org/project/go-typstwatcher"
+    demo: ""
     year: 2026
   - name: "py-bootstrap"
     description: "A modern Template for Python Packages."
